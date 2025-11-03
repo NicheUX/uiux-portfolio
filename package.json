@@ -2,7 +2,6 @@
   "name": "uiux-portfolio-website",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
   "homepage": "https://nicheux.github.io/uiux-portfolio",
   "scripts": {
     "dev": "vite",
