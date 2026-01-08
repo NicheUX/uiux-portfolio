@@ -269,7 +269,7 @@ export default function HomePage() {
               <Linkedin size={24} />
             </a>
             <a
-              href="https://www.instagram.com/thevakibalakrishnan/"
+              href="https://www.instagram.com/nicheux.studio/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-4 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full transition-all"
